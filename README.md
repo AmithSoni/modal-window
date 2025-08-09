@@ -11,7 +11,7 @@ This project demonstrates how to create a popup modal that can be opened and clo
 ---
 
 ## 📸 Screenshot  
-![Modal Window Screenshot](./screenshot.png)  
+![Modal Window Screenshot](./ModalWindow.png)  
 
 ---
 
